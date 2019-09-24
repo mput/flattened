@@ -36,7 +36,8 @@ The exact method depends on your terminal emulator. I’d suggest simply using t
     brmagenta #6c71c4 108 113 196
     brcyan    #93a1a1 147 161 161
     brwhite   #fdf6e3 253 246 227
-
+    
+![Palette](screenshots/pallete.png)
 ## Installation
 
 Put `flattened_dark.vim` and/or `flattened_light.vim` in `~/.vim/colors/` (on unix-like systems) or `%userprofile%\vimfiles\colors\` (on Windows).
